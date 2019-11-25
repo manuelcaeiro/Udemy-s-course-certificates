@@ -7,3 +7,4 @@ Just a bunch of certificates from Udemy's courses
 - Git Going Fast: One Hour Git Crash Course
 - Python & Introduction to Data Science
 - Golang - Jumpstart on Cloud
+- Web Development w/ Google's Go (golang) Programming Language
